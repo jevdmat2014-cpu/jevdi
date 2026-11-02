@@ -188,4 +188,4 @@ update();
 </body>
 </html> <img width="556" height="648" alt="image" src="https://github.com/user-attachments/assets/d172d1fd-2ce7-4fc7-ae57-90a0d6aabc2c" />
 <p>Kleine klussen, grote plannen!</p>
-<p>Voor jongeren van 12 tot 15 jaar!</p>
+<p>Voor jongeren van 12 tot 15 jaar!</p> 
